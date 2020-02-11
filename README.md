@@ -1,5 +1,7 @@
 # Search-Engine
-ADM HW3
+ADM project 3
+by Salwa Afrah, Eleftheria Tetoula Tsonga, 
+Andrea Baldino 
 
 # Homework 3 - What movie to watch tonight?
 
