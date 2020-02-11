@@ -3,12 +3,9 @@ ADM HW3
 
 # Homework 3 - What movie to watch tonight?
 
-![POP.png](data.POP.png)
+![POP.jpg](/data/POP.jpg)
 
 
-<p align="left">
-<img src="https://camo.githubusercontent.com/2b14850a6d07b4801a61fcfb09a644d920198097/68747470733a2f2f643363316a7563796270793475612e636c6f756466726f6e742e6e65742f646174612f36333436322f6269675f706963747572652f706f70636f726e2e6a70673f31353637303036343933" height=430 
-</p>
  
 **Goal of the homework**: *Build a search engine over a list of movies that have a dedicated page on Wikipedia.*
 
