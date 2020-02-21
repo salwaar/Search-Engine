@@ -1,5 +1,6 @@
 # Search-Engine
-ADM project 3
+Algorithmic Methods of Data Mining (Sc.M. in Data Science)
+project 3
 by Salwa Afrah, Eleftheria Tetoula Tsonga, 
 Andrea Baldino 
 
