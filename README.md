@@ -1,8 +1,6 @@
 # Search-Engine
 Algorithmic Methods of Data Mining (Sc.M. in Data Science)
-project 3
-by Salwa Afrah, Eleftheria Tetoula Tsonga, 
-Andrea Baldino 
+project.
 
 # Homework 3 - What movie to watch tonight?
 
@@ -210,3 +208,6 @@ You are given a string, *s*. Let's define a subsequence as the subset of charact
 **Have fun!**
 
 
+project 3
+by Salwa Afrah, Eleftheria Tetoula Tsonga, 
+Andrea Baldin
